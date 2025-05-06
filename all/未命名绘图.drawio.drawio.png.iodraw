@@ -43,7 +43,7 @@
         <mxCell id="IsDqJpXnuwRaV64Q_fdX-8" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="199.75" y="420" as="sourcePoint" />
-            <mxPoint x="200.25" y="520" as="targetPoint" />
+            <mxPoint x="200" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IsDqJpXnuwRaV64Q_fdX-9" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -62,7 +62,7 @@
           <mxGeometry x="300" y="440" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IsDqJpXnuwRaV64Q_fdX-17" value="&lt;b&gt;26 &lt;/b&gt;Studies included in the survey&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#edf3fd;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="110" y="560" width="180" height="40" as="geometry" />
+          <mxGeometry x="120" y="510" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
