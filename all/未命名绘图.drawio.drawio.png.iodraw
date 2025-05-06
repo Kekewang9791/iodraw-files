@@ -13,7 +13,7 @@
         <mxCell id="IsDqJpXnuwRaV64Q_fdX-2" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="199.5" y="170" as="sourcePoint" />
-            <mxPoint x="200" y="290" as="targetPoint" />
+            <mxPoint x="200" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IsDqJpXnuwRaV64Q_fdX-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1" target="IsDqJpXnuwRaV64Q_fdX-4">
@@ -26,7 +26,7 @@
           <mxGeometry x="300" y="190" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IsDqJpXnuwRaV64Q_fdX-5" value="&lt;b&gt;77&lt;/b&gt; Abstract records screened" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#edf3fd;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="110" y="290" width="180" height="40" as="geometry" />
+          <mxGeometry x="110" y="250" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IsDqJpXnuwRaV64Q_fdX-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="IsDqJpXnuwRaV64Q_fdX-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
