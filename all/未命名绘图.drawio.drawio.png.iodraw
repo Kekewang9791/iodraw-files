@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" scale="2" border="0" version="24.7.17">
   <diagram name="第 1 页" id="AR4qx_pMVTNJBHypD0b-">
-    <mxGraphModel dx="679" dy="372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="475" dy="260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,10 +28,10 @@
         <mxCell id="IsDqJpXnuwRaV64Q_fdX-5" value="&lt;b&gt;77&lt;/b&gt; Abstract records screened" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#edf3fd;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="110" y="250" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IsDqJpXnuwRaV64Q_fdX-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.442;entryY=0.037;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="IsDqJpXnuwRaV64Q_fdX-13" edge="1">
+        <mxCell id="IsDqJpXnuwRaV64Q_fdX-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.442;entryY=0.037;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="199.5" y="290" as="sourcePoint" />
-            <mxPoint x="200" y="360" as="targetPoint" />
+            <mxPoint x="199.76" y="288.52" as="sourcePoint" />
+            <mxPoint x="199.82000000000005" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IsDqJpXnuwRaV64Q_fdX-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.005;entryY=0.581;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
