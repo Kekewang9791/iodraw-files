@@ -53,7 +53,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IsDqJpXnuwRaV64Q_fdX-10" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;44&lt;/b&gt; Irrelevant references removed&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 3 Record could not be assessed&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 41 Outside the scope of review&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="250" y="350" width="250" height="70" as="geometry" />
+          <mxGeometry x="300" y="300" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IsDqJpXnuwRaV64Q_fdX-13" value="&lt;b&gt;33 &lt;/b&gt;Full-text articles assessed&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#edf3fd;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="110" y="430" width="180" height="40" as="geometry" />
