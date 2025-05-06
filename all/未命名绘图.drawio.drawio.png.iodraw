@@ -1,11 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" scale="2" border="0" version="24.7.17">
   <diagram name="第 1 页" id="AR4qx_pMVTNJBHypD0b-">
-    <mxGraphModel dx="2037" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Ju37qalnk0Y4noeiQobL-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry y="50" width="630" height="540" as="geometry" />
+          <mxGeometry x="20" y="50" width="590" height="540" as="geometry" />
         </mxCell>
         <mxCell id="IsDqJpXnuwRaV64Q_fdX-1" value="&lt;b&gt;131 &lt;/b&gt;Records identified from databases&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 53&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; PubMed&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 77&lt;/b&gt; Web of Science&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=#edf3fd;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="80" y="90" width="240" height="80" as="geometry" />
