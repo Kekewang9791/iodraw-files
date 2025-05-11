@@ -8,7 +8,7 @@
           <mxGeometry x="20" y="50" width="590" height="650" as="geometry" />
         </mxCell>
         <mxCell id="IsDqJpXnuwRaV64Q_fdX-1" value="&lt;b&gt;131 &lt;/b&gt;Records identified from databases&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 53&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; PubMed&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 77&lt;/b&gt; Web of Science&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=#edf3fd;strokeColor=#6c8ebf;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="80" y="90" width="240" height="80" as="geometry" />
+          <mxGeometry x="80" y="90" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IsDqJpXnuwRaV64Q_fdX-2" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
