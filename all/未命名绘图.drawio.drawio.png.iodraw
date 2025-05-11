@@ -64,18 +64,13 @@
         <mxCell id="IsDqJpXnuwRaV64Q_fdX-17" value="&lt;b&gt;26 &lt;/b&gt;Studies included in the survey&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#edf3fd;strokeColor=#6c8ebf;fontFamily=Times New Roman;align=center;" parent="1" vertex="1">
           <mxGeometry x="100" y="510" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EIrA6vN4upO_DwLu5vTb-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="340" as="sourcePoint" />
-            <mxPoint x="470" y="290" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="EIrA6vN4upO_DwLu5vTb-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="539.5" as="sourcePoint" />
             <mxPoint x="100" y="610" as="targetPoint" />
             <Array as="points">
               <mxPoint x="60" y="540" />
+              <mxPoint x="60" y="610" />
             </Array>
           </mxGeometry>
         </mxCell>
